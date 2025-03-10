@@ -1,0 +1,90 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved."
+  title: "MIT Jewish Alumni Alliance"
+  params:
+    description: "Site Description"
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "/example-page/"
+    footer_cta:
+      text: "Join us"
+      link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  ### work on getting this to be more responsive to page sizes
+  menu:
+    main:
+    - identifier: "jewish-life-on-campus"
+      name: "Jewish Life on Campus"
+      url: "/jewish-life-on-campus/"
+      weight: 1
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 100
+    - identifier: "about-us"
+      name: "About Us"
+      url: "/about/"
+      weight: 1
+      parent: "about"
+    - identifier: "mission-and-values"
+      name: "Mission & Values"
+      url: "/about/mission-and-values"
+      weight: 2
+      parent: "about"
+    - identifier: "privacy-policy"
+      name: "Privacy Policy"
+      url: "/about/privacy-policy/"
+      weight: 3
+      parent: "about"
+    - identifier: "open-letters"
+      name: "Open Letters"
+      url: "/open-letters/"
+      weight: 2
+    - identifier: "faq"
+      name: "Other Actions"
+      url: "/faq/"
+      weight: 3
+    - identifier: "media-coverage"
+      name: "Media Coverage"
+      url: "/media-coverage/"
+      weight: 4
+    # - identifier: "example"
+    #   name: "Accomplishments"
+    #   url: "https://cncf.io?ref=dot-org"
+    #   weight: 5
+he:
+  languageName: Hebrew
+  contentDir: content/he
+  weight: 2
+  title: "מיט ברית בוגרים יהודים"
+  params:
+    description: "Descripción del Sitio"
+  menu:
+    main:
+    - identifier: "about"
+      name: "Acerca de"
+      url: "/example-page/"
+      weight: 1
+    - identifier: "child-1"
+      name: "Página Hija de Ejemplo"
+      url: "/example-page/"
+      weight: 1
+      parent: "about"
+    - identifier: "faq"
+      name: "FAQs"
+      url: "/faq/"
+      weight: 3
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 2
