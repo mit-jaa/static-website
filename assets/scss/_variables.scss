@@ -8,19 +8,25 @@
   --text-color: var(--black);
   --black: #000000;
   --white: #ffffff;
-  --link-color: var(--primary-600);
+  --link-color: var(--black);
+  --link-color-hover: var(--secondary);
+  --menu-color: rgb(117, 0, 20);
   --menu-link-color: var(--black);
-  --menu-link-color-hover: var(--gray-800);
+  --menu-link-color-hover: var(--secondary);
+  --footer-color: var(--white);
   --footer-link-color: var(--white);
-  --footer-link-color-hover: var(--primary-400);
+  --footer-link-color-hover: var(--secondary);
   --gutter: 25px;
-  --container-width: 70%;
+  --container-width: 90%;
   --content-width: 90%;
 
   --primary-400: #5f5e5e; // grey - headers and link fade // #853838;
+  --primary-500: #4d8307; // yet to determine where this color gets applied
   --primary-600: #5385f9; // light blue - colors links // hsl(0, 0%, 40%);
   --primary-700: #3571ff; // vivid blue - colors buttons // #853838; //hsl(198, 97%, 34%);
   --primary-800: #853838; // red - colors button fade // hsl(210, 4%, 30%);
+
+  --secondary: rgb(255, 20, 35);
 
   --gray-200: #eaecf0;
   --gray-300: #e5e5e5;
@@ -28,6 +34,10 @@
   --gray-600: #b1b1b1;
   --gray-700: #767676;
   --gray-800: #5f6367; // nav fade
+
+  // Pagefind styles from https://pagefind.app/docs/ui-usage/#customising-the-styles
+  --pagefind-ui-text: var(--text-color) !important;
+  --pagefind-ui-font: var(--rounded-font-family) !important;
 }
 
 // Define SCSS variables.
