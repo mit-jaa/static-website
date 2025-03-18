@@ -12,9 +12,9 @@ en:
       help_text: "Accessibility Statement"
       help_url: "/example-page/"
     ### calls to action ###
-    main_cta:
-      text: "Join"
-      link: "/example-page/"
+    # main_cta:
+    #   text: "Join"
+    #   link: "/example-page/"
     footer_cta:
       text: "Join us"
       link: "/example-page/"
@@ -26,11 +26,11 @@ en:
     - identifier: "jewish-life-on-campus"
       name: "Jewish Life on Campus"
       url: "/jewish-life-on-campus/"
-      weight: 1
+      weight: 10
     - identifier: "about"
       name: "About"
       url: "/about/"
-      weight: 100
+      weight: 1
     - identifier: "about-us"
       name: "About Us"
       url: "/about/"
@@ -49,42 +49,38 @@ en:
     - identifier: "open-letters"
       name: "Open Letters"
       url: "/open-letters/"
-      weight: 2
-    - identifier: "faq"
+      weight: 20
+    - identifier: "other-actions"
       name: "Other Actions"
-      url: "/faq/"
-      weight: 3
+      url: "/other-actions/"
+      weight: 30
     - identifier: "media-coverage"
       name: "Media Coverage"
       url: "/media-coverage/"
-      weight: 4
-    # - identifier: "example"
-    #   name: "Accomplishments"
-    #   url: "https://cncf.io?ref=dot-org"
-    #   weight: 5
-he:
-  languageName: Hebrew
-  contentDir: content/he
-  weight: 2
-  title: "מיט ברית בוגרים יהודים"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
+      weight: 40
+# he:
+#   languageName: Hebrew
+#   contentDir: content/he
+#   weight: 2
+#   title: "מיט ברית בוגרים יהודים"
+#   params:
+#     description: "Descripción del Sitio"
+#   menu:
+#     main:
+#     - identifier: "about"
+#       name: "Acerca de"
+#       url: "/example-page/"
+#       weight: 1
+#     - identifier: "child-1"
+#       name: "Página Hija de Ejemplo"
+#       url: "/example-page/"
+#       weight: 1
+#       parent: "about"
+#     - identifier: "faq"
+#       name: "FAQs"
+#       url: "/faq/"
+#       weight: 3
+#     - identifier: "blog"
+#       name: "Blog"
+#       url: "/blog/"
+#       weight: 2
