@@ -7,6 +7,13 @@
 	display: flex;
 
     position: relative;
+
+    @media (min-width: 720px) and (min-height: 500px) {
+        height: 78px;
+    }
+    @media (min-width: 990px) and (min-height: 650px) {
+        height: 84px;
+    }
     &.sticky {
         position: sticky;
         // remove sticky on smaller screens.
@@ -40,6 +47,7 @@
         min-height: inherit;
         margin-left: 0;
         margin-right: 0;
+        padding-right: 0;
         @media (min-width: $min-desktop) {
             height: 100%;
         }
@@ -53,12 +61,13 @@
     .logo {
         object-position: 0 0;
         object-fit: contain;
+        padding: 3%;
         max-width: 100%;
-        max-height: 40%;
+        max-height: 100%;
         min-height: inherit;
         @media (min-width: $min-desktop) {
             max-width: 100%;
-            max-height: 40%;
+            max-height: 100%;
         }
     }
 
@@ -206,7 +215,12 @@
         display: flex;
         height: 100%;
         min-height: inherit;
+        width: 84px;
+        background-color: var(--secondary);
         @media (max-width: $mobile-max) {
+            background-color: inherit;
+            padding-top: 2%;
+            padding-bottom: 2%;
             flex-direction: row-reverse;
             align-items: flex-start;
             gap: 40px;
@@ -243,13 +257,11 @@
     .main-menu-search {
         display: flex;
         height: 100%;
+        width: 100%;
         min-height: inherit;
         @media (min-width: $min-desktop) {
-            padding-left: 50%;
-            padding-right: 50%;
-            padding-top: 50%;
-            padding-bottom: 50%;
-            background-color: var(--secondary);
+            padding-left: 27px;
+            padding-top: 27px;
         }
         svg {
             fill: var(--white);
@@ -311,6 +323,10 @@
 
     .menu-item-has-children {
         position: relative;
+        margin-right: 35px;
+        @media (min-width: $min-desktop) {
+            margin-right: 45px;
+        }
         &.is-open {
             color: var(--secondary);
             transition: all 0.1s ease-out;
@@ -351,6 +367,9 @@
                 }
                 @media (min-width: $min-desktop) {
                     margin-left: 10px;
+                }
+                @media (max-width: $mobile-max) {
+                    width: 9px;
                 }
             }
         }

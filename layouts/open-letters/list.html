@@ -1,0 +1,57 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $highlighted_articles := 2 }}
+  {{ $pages := last (sub (len .Pages) $highlighted_articles) .Pages }}
+  {{ $paginator := .Paginate $pages }}
+  {{ $page_1 := index .Pages 0 }}
+  {{ $page_2 := index .Pages 1 }}
+  <div class="columns columns-2">
+    <div class="column">
+      <article>
+        <a href="{{ $page_1.RelPermalink }}">
+          {{ if (fileExists (printf "static/img/open-letters/%s/cover.avif" $page_1.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_1.File.BaseFileName}}/cover.avif" loading="eager">
+          {{ else if (fileExists (printf "static/img/open-letters/%s/cover.jpg" $page_1.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_1.File.BaseFileName}}/cover.jpg" loading="eager">
+          {{ else if (fileExists (printf "static/img/open-letters/%s/cover.png" $page_1.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_1.File.BaseFileName}}/cover.png" loading="eager">
+          {{ else }}
+            <img class="cover-image" src="/img/mit-israel-flags.jpeg" loading="eager">
+          {{ end}}
+        </a>
+        <h2><a href="{{ $page_1.RelPermalink }}">{{ $page_1.Title }}</a></h2>
+        {{- partial "blog/byline.html" $page_1 }}
+        <p>{{ $page_1.Summary | plainify }}</p>
+        <p></p>
+      </article>
+    </div>
+    <div class="column">
+      <article>
+        <a href="{{ $page_2.RelPermalink }}">
+          {{ if (fileExists (printf "static/img/open-letters/%s/cover.avif" $page_2.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_2.File.BaseFileName}}/cover.avif" loading="eager">
+          {{ else if (fileExists (printf "static/img/open-letters/%s/cover.jpg" $page_2.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_2.File.BaseFileName}}/cover.jpg" loading="eager">
+          {{ else if (fileExists (printf "static/img/open-letters/%s/cover.png" $page_2.File.BaseFileName)) }}
+            <img class="cover-image" src="/img/open-letters/{{$page_2.File.BaseFileName}}/cover.png" loading="eager">
+          {{ else }}
+            <img class="cover-image" src="/img/mit-israel-flags.jpeg" loading="eager">
+          {{ end}}
+        </a>
+        <h2><a href="{{ $page_2.RelPermalink }}">{{ $page_2.Title }}</a></h2>
+        {{- partial "blog/byline.html" $page_2 }}
+        <p>{{ $page_2.Summary | plainify }}</p>
+        <p></p>
+      </article>
+    </div>
+  </div>
+  {{- range $paginator.Pages }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{- partial "blog/byline.html" . }}
+        <p>{{ .Summary | plainify }}</p>
+        <p></p>
+      </article>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

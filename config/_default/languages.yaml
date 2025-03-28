@@ -2,22 +2,22 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved."
+  copyright: "Copyright &copy; {{< current_year >}} MIT Jewish Alumni Alliance. All Rights Reserved."
   title: "MIT Jewish Alumni Alliance"
   params:
     description: "Site Description"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
     ### calls to action ###
     # main_cta:
     #   text: "Join"
     #   link: "/example-page/"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Join MIT JAA"
+      link: "/about/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   ### work on getting this to be more responsive to page sizes

@@ -62,3 +62,22 @@ body {
 	display: none;
 	visibility: hidden;
 }
+  
+#overlayText a {
+	display: inline-block !important;
+	padding: 10px 20px !important;
+	border-radius: 47px !important;
+	background-color: var(--primary-700) !important;
+	fill: var(--white) !important;
+	text-transform: uppercase !important;
+	text-decoration: none !important;
+	line-height: 1 !important;
+	text-align: center !important;
+	letter-spacing: 0.7px !important;
+
+	&:hover,
+	&:active {
+		fill: var(--white) !important;
+		background-color: var(--primary-800) !important;
+	}
+}

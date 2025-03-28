@@ -11,7 +11,7 @@ $hamburger-color: var(--menu-text-color);
 $hamburger-color-hover: var(--secondary);
 $hamburger-active-color: var(--menu-text-color);
 $hamburger-active-color-hover: var(--text-color);
-$hamburger-padding-x: 0;
+$hamburger-padding-x: var(--gutter);
 $hamburger-padding-y: 24px;
 $hamburger-layer-width: 26px;
 $hamburger-layer-height: 4px;

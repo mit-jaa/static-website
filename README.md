@@ -17,3 +17,6 @@
     - direct link to most important action item
 
 - Historical Background first two paragraphs should be highlighted on an about page or the home page
+
+
+maybe lets do all the open letters in one folder for now so we can get the summaries generated
