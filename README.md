@@ -2,6 +2,9 @@
 - Install Hugo
 - Install node
 
+## Start the server locally
+`hugo server`
+
 ## Themes
 If you have trouble accessing the themes, you may need to pull in the git submodules:
 `git submodule add https://github.com/cncf/dot-org-hugo-theme.git themes/dot-org-hugo-theme`
