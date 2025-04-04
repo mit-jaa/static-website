@@ -11,6 +11,9 @@
   --link-color: var(--black);
   --link-color-hover: var(--secondary);
   --menu-color: rgb(117, 0, 20);
+  --menu-height-max: 200px;
+  --menu-height-med: 170px;
+  --menu-height-min: 140px;
   --menu-link-color: var(--black);
   --menu-link-color-hover: var(--secondary);
   --menu-text-color: var(--white)
@@ -27,7 +30,7 @@
   --primary-700: #3571ff; // vivid blue - colors buttons // #853838; //hsl(198, 97%, 34%);
   --primary-800: #5385f9; // red - colors button fade // hsl(210, 4%, 30%);
 
-  --secondary: rgb(255, 20, 35);
+  --secondary: #3571ff;
 
   --gray-200: #eaecf0;
   --gray-300: #e5e5e5;

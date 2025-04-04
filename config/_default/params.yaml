@@ -5,7 +5,7 @@
 # logo_on_black: "https://www.mitjaa.org/wp-content/uploads/2024/01/final-768x856.png"
 logo_on_white: "/work%20in%20progress-circle.png"
 logo_on_black: "/work%20in%20progress-circle.png"
-custom_js: []
+custom_js: ["js/header-scroll.js"]
 custom_css: []
 
 ######################## custom config ####################
