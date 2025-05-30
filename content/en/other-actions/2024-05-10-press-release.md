@@ -1,6 +1,7 @@
 ---
 title: Press Release
 date: 2024-05-10
+summary: The MIT Jewish Alumni Alliance (MIT JAA), together with Concerned MIT Parents and other MIT affiliates, issued a petition to the MIT administration to 1) enforce serious and meaningful disciplinary actions against disruptors and agitators; 2) not allow the encampment to re-organize under any circumstances; and 3) take all necessary steps to prevent outside agitators from engaging with or gaining access to private MIT property. Within the first 24 hours, the petition gathered more than 850 signatures, and more signatures are being collected. ...
 ---
 
 ## May 20, 2024

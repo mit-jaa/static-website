@@ -1,5 +1,6 @@
 ---
 title: Media Coverage
+summary: We’ve been in the news!
 ---
 
 ## We’ve been in the news!

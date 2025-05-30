@@ -1,6 +1,7 @@
 ---
 title: letter of opposition to UA referendum
 date: 2024-03-11
+summary: We are writing to express our concern about the following referendum to be voted on for adoption by the [Undergraduate Association on March 18th-22nd, 2024](https://drive.google.com/file/d/1cjLVn9WOqWhagn83xunCSA2jl3B4dTdT/view). ...
 ---
 
 ## March 11, 2024

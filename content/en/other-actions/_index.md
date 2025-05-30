@@ -1,6 +1,7 @@
 ---
 title: Other Actions
 showHeader: false
+summary: Read more about the other actions and publications we have made towards fighting antisemitism
 ---
 
 # Publications
