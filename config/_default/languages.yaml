@@ -23,10 +23,6 @@ en:
   ### work on getting this to be more responsive to page sizes
   menu:
     main:
-    - identifier: "jewish-life-on-campus"
-      name: "Jewish Life on Campus"
-      url: "/jewish-life-on-campus/"
-      weight: 10
     - identifier: "about"
       name: "About"
       url: "/about/"
@@ -46,6 +42,20 @@ en:
       url: "/about/privacy-policy/"
       weight: 3
       parent: "about"
+    - identifier: "jewish-life-on-campus"
+      name: "Jewish Life on Campus"
+      url: "/jewish-life-on-campus/"
+      weight: 10
+    - identifier: "accomplishments"
+      name: "Accomplishments"
+      url: "/jewish-life-on-campus/accomplishments/"
+      weight: 1
+      parent: "jewish-life-on-campus"
+    - identifier: "antisemitism-on-campus"
+      name: "Antisemitism on Campus"
+      url: "/jewish-life-on-campus/antisemitism-on-campus/"
+      weight: 2
+      parent: "jewish-life-on-campus"
     - identifier: "open-letters"
       name: "Open Letters"
       url: "/open-letters/"
@@ -54,6 +64,36 @@ en:
       name: "Other Actions"
       url: "/other-actions/"
       weight: 30
+    - identifier: "tech-editorial"
+      name: "Editorial in The Tech"
+      url: "https://thetech.com/2024/03/21/mit-jaa-suspend-caa"
+      weight: 1
+      parent: "other-actions"
+    - identifier: "mit-1-pledge"
+      name: "MIT $1 Pledge"
+      url: "/other-actions/mit-1-pledge/"
+      weight: 2
+      parent: "other-actions"
+    - identifier: "2024-05-10-press-release"
+      name: "Press Release"
+      url: "/other-actions/2024-05-10-press-release/"
+      weight: 3
+      parent: "other-actions"
+    - identifier: "letter-of-opposition-to-ua-referendum"
+      name: "Letter of Opposition to UA Referendum"
+      url: "/other-actions/letter-of-opposition-to-ua-referendum/"
+      weight: 4
+      parent: "other-actions"
+    - identifier: "letter-to-senators"
+      name: "Letter to Senators Warren and Markey"
+      url: "/other-actions/letter-to-senators/"
+      weight: 5
+      parent: "other-actions"
+    - identifier: "all-other-actions"
+      name: "All Other Actions"
+      url: "/other-actions/"
+      weight: 6
+      parent: "other-actions"
     - identifier: "media-coverage"
       name: "Media Coverage"
       url: "/media-coverage/"
