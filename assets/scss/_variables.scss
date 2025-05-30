@@ -24,20 +24,20 @@
   --container-width: 90%;
   --content-width: 90%;
 
-  --primary-400: #3571ff; // grey - headers and link fade // #853838;
-  --primary-500: #5385f9; // footer join us button fade
-  --primary-600: #5385f9; // light blue - colors links // hsl(0, 0%, 40%);
-  --primary-700: #3571ff; // vivid blue - colors buttons // #853838; //hsl(198, 97%, 34%);
-  --primary-800: #5385f9; // red - colors button fade // hsl(210, 4%, 30%);
+  --primary-400: #626a73; // grey - headers and link fade // #853838;
+  --primary-500: #8b959e; // footer join us button fade
+  --primary-600: #8b959e; // light blue - colors links // hsl(0, 0%, 40%);
+  --primary-700: #626a73; // vivid blue - colors buttons // #853838; //hsl(198, 97%, 34%);
+  --primary-800: #8b959e; // red - colors button fade // hsl(210, 4%, 30%);
 
-  --secondary: #3571ff;
+  --secondary: #626a73;
 
-  --gray-200: #eaecf0;
-  --gray-300: #e5e5e5;
+  --gray-200: #626a73;
+  --gray-300: #626a73;
   --gray-400: #e4e4e4;
-  --gray-600: #b1b1b1;
+  --gray-600: #8b959e;
   --gray-700: #767676;
-  --gray-800: #5f6367; // nav fade
+  --gray-800: #8b959e; // nav fade
 
   // Pagefind styles from https://pagefind.app/docs/ui-usage/#customising-the-styles
   --pagefind-ui-text: var(--text-color) !important;

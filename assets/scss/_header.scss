@@ -401,7 +401,7 @@
             visibility: visible;
             overflow: visible;
             height: unset;
-            color: var(--secondary);
+            color: var(--grey-200);
         }
     }
 
@@ -441,7 +441,7 @@
                 box-shadow:
                     // 0px 4px 6px -2px rgba(16, 24, 40, 0.03),
                     // 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
-                    0 3px RGBA(var(--secondary),1) inset,
+                    0 3px RGBA(var(--gray-200),1) inset,
                     0 2px 15px rgba(0,0,0,.05);
                 padding: 20px;
             }
