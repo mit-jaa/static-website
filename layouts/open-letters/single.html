@@ -3,7 +3,7 @@
 {{- $allAuthors := .Site.Data.authors }}
 {{- $author := .Params.author }}
 
-{{- partial "blog/byline.html" . }}
+{{/*  {{- partial "blog/byline.html" . }}  */}}
 {{ .Content }}
 
 {{ end }}

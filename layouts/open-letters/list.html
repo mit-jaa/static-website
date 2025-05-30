@@ -21,7 +21,7 @@
         </a>
         <h2><a href="{{ $page_1.RelPermalink }}">{{ $page_1.Title }}</a></h2>
         {{- partial "blog/byline.html" $page_1 }}
-        <p>{{ $page_1.Summary | plainify }}</p>
+        <p>{{ $page_1.Summary | plainify | strings.Truncate 750 }}</p>
         <p></p>
       </article>
     </div>
@@ -40,7 +40,7 @@
         </a>
         <h2><a href="{{ $page_2.RelPermalink }}">{{ $page_2.Title }}</a></h2>
         {{- partial "blog/byline.html" $page_2 }}
-        <p>{{ $page_2.Summary | plainify }}</p>
+        <p>{{ $page_2.Summary | plainify | strings.Truncate 750 }}</p>
         <p></p>
       </article>
     </div>
@@ -49,7 +49,7 @@
       <article>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         {{- partial "blog/byline.html" . }}
-        <p>{{ .Summary | plainify }}</p>
+        <p>{{ .Summary | plainify | strings.Truncate 750 }}</p>
         <p></p>
       </article>
   {{ end }}
