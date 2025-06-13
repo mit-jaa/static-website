@@ -8,7 +8,6 @@ body {
 		overflow: hidden;
 		height: 100%;
 	}
-    // background: transparent linear-gradient(-305deg,#be737d,#f5e8ea) 0 0 no-repeat padding-box;
 	background-color: #dcb4b9;
 }
 
@@ -59,31 +58,3 @@ body {
 // * {
 // 	outline: 1px solid rgb(60, 255, 0);
 //   }
-
-.embed-pdf-container {
-	max-width: 1000px !important;
-}
-
-.pdf-paginator {
-	display: none;
-	visibility: hidden;
-}
-  
-#overlayText a {
-	display: inline-block !important;
-	padding: 10px 20px !important;
-	border-radius: 47px !important;
-	background-color: var(--primary-700) !important;
-	fill: var(--white) !important;
-	text-transform: uppercase !important;
-	text-decoration: none !important;
-	line-height: 1 !important;
-	text-align: center !important;
-	letter-spacing: 0.7px !important;
-
-	&:hover,
-	&:active {
-		fill: var(--white) !important;
-		background-color: var(--primary-800) !important;
-	}
-}

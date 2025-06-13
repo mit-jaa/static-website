@@ -1,23 +1,37 @@
 // Specific rules to page content.
-// #content {
-//     padding-top: var(--menu-height-min);
-
-//     @media (min-width: 720px) and (min-height: 500px) {
-//         padding-top: var(--menu-height-med);
-//     }
-//     @media (min-width: 990px) and (min-height: 650px) {
-//         padding-top: var(--menu-height-max);
-//     }
-// }
-
-// #content {
-//     background: transparent linear-gradient(-305deg,#449bff,#8dbfff) 0 0 no-repeat padding-box;
-// }
 
 .content {
     min-height: calc(100vh - 375px);
     > * {
         max-width: var(--content-width);
+    }
+
+    .embed-pdf-container {
+        max-width: 1000px;
+    }
+
+    .pdf-paginator {
+        display: none;
+        visibility: hidden;
+    }
+
+    #overlayText a {
+        display: inline-block;
+        padding: 10px 20px;
+        border-radius: 47px;
+        background-color: var(--primary-700);
+        fill: var(--white);
+        text-transform: uppercase;
+        text-decoration: none;
+        line-height: 1;
+        text-align: center;
+        letter-spacing: 0.7px;
+
+        &:hover,
+        &:active {
+            fill: var(--white);
+            background-color: var(--primary-800);
+        }
     }
 
     .cover-image {
@@ -137,5 +151,11 @@
     // Fixes nested UL spacing - see TOC.
     ul ul {
         margin-top: 12px;
+    }
+
+    hr {
+        height:2px;
+        border-width:0;
+        background-color: var(--primary-400);
     }
 }
