@@ -2,35 +2,31 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved."
+  copyright: "Copyright &copy; {{< current_year >}} MIT Jewish Alumni Alliance. All Rights Reserved."
   title: "MIT Jewish Alumni Alliance"
   params:
     description: "Site Description"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
     ### calls to action ###
-    main_cta:
-      text: "Join"
-      link: "/example-page/"
+    # main_cta:
+    #   text: "Join"
+    #   link: "/example-page/"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Join MIT JAA"
+      link: "/about/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   ### work on getting this to be more responsive to page sizes
   menu:
     main:
-    - identifier: "jewish-life-on-campus"
-      name: "Jewish Life on Campus"
-      url: "/jewish-life-on-campus/"
-      weight: 1
     - identifier: "about"
       name: "About"
       url: "/about/"
-      weight: 100
+      weight: 1
     - identifier: "about-us"
       name: "About Us"
       url: "/about/"
@@ -46,45 +42,85 @@ en:
       url: "/about/privacy-policy/"
       weight: 3
       parent: "about"
+    - identifier: "jewish-life-on-campus"
+      name: "Jewish Life on Campus"
+      url: "/jewish-life-on-campus/"
+      weight: 10
+    - identifier: "accomplishments"
+      name: "Accomplishments"
+      url: "/jewish-life-on-campus/accomplishments/"
+      weight: 1
+      parent: "jewish-life-on-campus"
+    - identifier: "antisemitism-on-campus"
+      name: "Antisemitism on Campus"
+      url: "/jewish-life-on-campus/antisemitism-on-campus/"
+      weight: 2
+      parent: "jewish-life-on-campus"
     - identifier: "open-letters"
       name: "Open Letters"
       url: "/open-letters/"
-      weight: 2
-    - identifier: "faq"
+      weight: 20
+    - identifier: "other-actions"
       name: "Other Actions"
-      url: "/faq/"
+      url: "/other-actions/"
+      weight: 30
+    - identifier: "tech-editorial"
+      name: "Editorial in The Tech"
+      url: "https://thetech.com/2024/03/21/mit-jaa-suspend-caa"
+      weight: 1
+      parent: "other-actions"
+    - identifier: "mit-1-pledge"
+      name: "MIT $1 Pledge"
+      url: "/other-actions/mit-1-pledge/"
+      weight: 2
+      parent: "other-actions"
+    - identifier: "2024-05-10-press-release"
+      name: "Press Release"
+      url: "/other-actions/2024-05-10-press-release/"
       weight: 3
+      parent: "other-actions"
+    - identifier: "letter-of-opposition-to-ua-referendum"
+      name: "Letter of Opposition to UA Referendum"
+      url: "/other-actions/letter-of-opposition-to-ua-referendum/"
+      weight: 4
+      parent: "other-actions"
+    - identifier: "letter-to-senators"
+      name: "Letter to Senators Warren and Markey"
+      url: "/other-actions/letter-to-senators/"
+      weight: 5
+      parent: "other-actions"
+    - identifier: "all-other-actions"
+      name: "All Other Actions"
+      url: "/other-actions/"
+      weight: 6
+      parent: "other-actions"
     - identifier: "media-coverage"
       name: "Media Coverage"
       url: "/media-coverage/"
-      weight: 4
-    # - identifier: "example"
-    #   name: "Accomplishments"
-    #   url: "https://cncf.io?ref=dot-org"
-    #   weight: 5
-he:
-  languageName: Hebrew
-  contentDir: content/he
-  weight: 2
-  title: "מיט ברית בוגרים יהודים"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
+      weight: 40
+# he:
+#   languageName: Hebrew
+#   contentDir: content/he
+#   weight: 2
+#   title: "מיט ברית בוגרים יהודים"
+#   params:
+#     description: "Descripción del Sitio"
+#   menu:
+#     main:
+#     - identifier: "about"
+#       name: "Acerca de"
+#       url: "/example-page/"
+#       weight: 1
+#     - identifier: "child-1"
+#       name: "Página Hija de Ejemplo"
+#       url: "/example-page/"
+#       weight: 1
+#       parent: "about"
+#     - identifier: "faq"
+#       name: "FAQs"
+#       url: "/faq/"
+#       weight: 3
+#     - identifier: "blog"
+#       name: "Blog"
+#       url: "/blog/"
+#       weight: 2

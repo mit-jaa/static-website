@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{- $date := .Date.Format "January 2, 2006" }}
+{{- $allAuthors := .Site.Data.authors }}
+{{- $author := .Params.author }}
+
+{{/*  {{- partial "blog/byline.html" . }}  */}}
+<h2>{{ $date }}</h2>
+<div class="image-container">
+    <img src="/new_logo_circle.png" loading="eager" >
+</div>
+{{ .Content }}
+
+{{ end }}

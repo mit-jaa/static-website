@@ -1,14 +1,18 @@
-{{ if (fileExists "static/favicon.ico") }}
+{{/*  {{ if (fileExists "static/favicon.ico") }}
 <link rel="icon" href="{{ "favicon.ico" | absURL }}" sizes="32x32">
-{{ end }}
+{{ end }}  */}}
 {{/*  this is to override the dot org theme  */}}
 {{/*  make and SVG file of the icon, then we can remove this file and rely on the theme again  */}}
 {{/*  {{ if (fileExists "static/favicon.svg") }}
 <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | absURL }}">
 {{ end}}  */}}
-{{ if (fileExists "static/apple-touch-icon.png") }}
+{{/*  {{ if (fileExists "static/apple-touch-icon.png") }}
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}" />
 {{ end}}
 {{ if (fileExists "static/favicon-32x32.png") }}
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
+{{ end}}  */}}
+{{ if (fileExists "static/new_logo_circle.png") }}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "new_logo_circle.png" | absURL }}">
 {{ end}}
+<meta name="test">

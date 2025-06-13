@@ -1,0 +1,161 @@
+// Specific rules to page content.
+
+.content {
+    min-height: calc(100vh - 375px);
+    > * {
+        max-width: var(--content-width);
+    }
+
+    .embed-pdf-container {
+        max-width: 1000px;
+    }
+
+    .pdf-paginator {
+        display: none;
+        visibility: hidden;
+    }
+
+    #overlayText a {
+        display: inline-block;
+        padding: 10px 20px;
+        border-radius: 47px;
+        background-color: var(--primary-700);
+        fill: var(--white);
+        text-transform: uppercase;
+        text-decoration: none;
+        line-height: 1;
+        text-align: center;
+        letter-spacing: 0.7px;
+
+        &:hover,
+        &:active {
+            fill: var(--white);
+            background-color: var(--primary-800);
+        }
+    }
+
+    .cover-image {
+        max-height: 450px;
+    }
+
+    .image-container {
+        width: fit-content;
+        max-width: 625px;
+        iframe {
+
+            @media (min-width: $min-desktop) {
+                min-width: 625px;
+                min-height: 352px;
+            }
+
+            @media (max-width: $mobile-max)
+            and (min-width: 551px) {
+                min-width: 500px;
+                min-height: 282px;
+            }
+
+            @media (max-width: 550px)
+            and (min-width: 451px) {
+                min-width: 400px;
+                max-height: 225px;
+            }
+
+            @media (max-width: 450px)
+            and (min-width: 351px) {
+                min-width: 300px;
+                max-height: 169px;
+            }
+        }
+    }
+
+    .image-metadata {
+        font-size: 14px;
+        border-bottom-color: var(--gray-600);
+        border-bottom-style: solid;
+    }
+
+    .full-width,
+    div,
+    iframe {
+        width: 100%;
+        max-width: 100%;
+
+        /* Container holding the image and the text */
+        .image-text-container {
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+        
+        /* Top left text */
+        .top-left {
+            width: auto;
+            text-align: left;
+            position: absolute;
+            top: 8px;
+            left: 16px;
+        }
+        
+        /* Top right text */
+        .top-right {
+            width: auto;
+            position: absolute;
+            top: 8px;
+            right: 16px;
+        }
+
+        /* Bottom left text */
+        .bottom-left {
+            width: auto;
+            position: absolute;
+            bottom: 8px;
+            left: 16px;
+        }
+        
+        /* Bottom right text */
+        .bottom-right {
+            width: auto;
+            position: absolute;
+            bottom: 8px;
+            right: 16px;
+        }
+        
+        /* Centered text */
+        .centered {
+            width: auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    // Code block restriction.
+    div.highlight {
+        max-width: var(--content-width);
+    }
+
+    // Stops links pushing out container.
+    a {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+        hyphens: auto;
+    }
+
+    // Fixes nested UL spacing - see TOC.
+    ul ul {
+        margin-top: 12px;
+    }
+
+    hr {
+        height:2px;
+        border-width:0;
+        background-color: var(--primary-400);
+    }
+}
