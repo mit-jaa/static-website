@@ -3,15 +3,15 @@
 # Add custom assets relative to /static or via https
 # logo_on_white: "https://www.mitjaa.org/wp-content/uploads/2024/01/final-768x856.png"
 # logo_on_black: "https://www.mitjaa.org/wp-content/uploads/2024/01/final-768x856.png"
-logo_on_white: "/work-in-progress-circle-2.png"
-logo_on_black: "/work-in-progress-circle-2.png"
+logo_on_white: "/new_logo_circle.png"
+logo_on_black: "/new_logo_circle.png"
 custom_js: ["js/header-scroll.js"]
 custom_css: []
 
 ######################## custom config ####################
 
 ### default social share image (can also be set per lang) ###
-images: ["/work-in-progress-circle-2.png"]
+images: ["/new_logo_circle.png"]
 
 # github:
 #   repo_url: "https://github.com/username/repo/blob/master"

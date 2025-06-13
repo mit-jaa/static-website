@@ -9,7 +9,7 @@ title: "MIT Jewish Alumni Alliance"
 timeZone: "America/Los_Angeles"
 # Defines the minimum amount of words to reddened in a summary
 summaryLength: 50
-backgroundImage: "img/background.jpg"
+backgroundImage: "new_logo_circle.png"
 
 enableInlineShortcodes: true
 
