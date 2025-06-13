@@ -16,7 +16,7 @@
           {{ else if (fileExists (printf "static/img/open-letters/%s/cover.png" $page_1.File.BaseFileName)) }}
             <img class="cover-image" src="/img/open-letters/{{$page_1.File.BaseFileName}}/cover.png" loading="eager">
           {{ else }}
-            <img class="cover-image" src="/img/mit-israel-flags.jpeg" loading="eager">
+            <img class="cover-image" src="/new_logo_circle.png" loading="eager">
           {{ end}}
         </a>
         <h2><a href="{{ $page_1.RelPermalink }}">{{ $page_1.Title }}</a></h2>
@@ -35,7 +35,7 @@
           {{ else if (fileExists (printf "static/img/open-letters/%s/cover.png" $page_2.File.BaseFileName)) }}
             <img class="cover-image" src="/img/open-letters/{{$page_2.File.BaseFileName}}/cover.png" loading="eager">
           {{ else }}
-            <img class="cover-image" src="/img/mit-israel-flags.jpeg" loading="eager">
+            <img class="cover-image" src="/new_logo_circle.png" loading="eager">
           {{ end}}
         </a>
         <h2><a href="{{ $page_2.RelPermalink }}">{{ $page_2.Title }}</a></h2>
