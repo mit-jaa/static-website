@@ -58,3 +58,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+######################## GitHub Actions ####################
+caches:
+  images:
+    dir: :cacheDir/images
