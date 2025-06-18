@@ -17,7 +17,7 @@ en:
     #   link: "/example-page/"
     footer_cta:
       text: "Join MIT JAA"
-      link: "/about/"
+      link: "about/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   ### work on getting this to be more responsive to page sizes
