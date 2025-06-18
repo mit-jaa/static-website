@@ -13,6 +13,8 @@ backgroundImage: "new_logo_circle.png"
 
 enableInlineShortcodes: true
 
+canonifyURLs: true
+
 ######################## i18n ####################
 # Auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 hasCJKLanguage: false
