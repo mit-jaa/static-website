@@ -35,12 +35,44 @@
     }
 
     .cover-image {
-        max-height: 450px;
+        max-height: 300px;
+    }
+
+    .row {
+        display: flex;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .block {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        align-self: center;
+    }​
+
+    .shift-up {
+        margin-top: -30px;
+    }
+
+    .image-container-tall {
+        a {
+            img {
+                max-height: 500px;
+            }
+        }
+    }
+
+    .logo-container {
+        max-width: 300px;
+        max-height: 300px;
     }
 
     .image-container {
         width: fit-content;
-        max-width: 625px;
+        max-width: 300px;
         iframe {
 
             @media (min-width: $min-desktop) {
