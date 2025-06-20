@@ -89,9 +89,15 @@
 {{ if and (eq .Type "faq") (eq .Kind "section") }}
 {{ $js := resources.Get "js/accordion.js" }}
 <script defer src="{{ $js.Permalink }}"></script>
+{{ if .Site.Params.sticky_header }}
 <script>
-    var stickyHeader = {{ if .Site.Params.sticky_header }}true{{ else }}false{{ end }};
-  </script>
+    var stickyHeader = true;
+</script>
+{{ else }}
+<script>
+    var stickyHeader = true;
+</script>
+{{ end }}
 {{ end }}
 
 {{/* Theme: Scripts */}}

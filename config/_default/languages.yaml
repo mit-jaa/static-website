@@ -74,25 +74,30 @@ en:
       url: "/other-actions/mit-1-pledge/"
       weight: 2
       parent: "other-actions"
+    - identifier: "einat-wilf-webinar"
+      name: "Einat Wilf Webinar"
+      url: "/other-actions/einat-wilf-webinar/"
+      weight: 3
+      parent: "other-actions"
     - identifier: "2024-05-10-press-release"
       name: "Press Release"
       url: "/other-actions/2024-05-10-press-release/"
-      weight: 3
+      weight: 4
       parent: "other-actions"
     - identifier: "letter-of-opposition-to-ua-referendum"
       name: "Letter of Opposition to UA Referendum"
       url: "/other-actions/letter-of-opposition-to-ua-referendum/"
-      weight: 4
+      weight: 5
       parent: "other-actions"
     - identifier: "letter-to-senators"
       name: "Letter to Senators Warren and Markey"
       url: "/other-actions/letter-to-senators/"
-      weight: 5
+      weight: 6
       parent: "other-actions"
     - identifier: "all-other-actions"
       name: "All Other Actions"
       url: "/other-actions/"
-      weight: 6
+      weight: 7
       parent: "other-actions"
     - identifier: "media-coverage"
       name: "Media Coverage"
