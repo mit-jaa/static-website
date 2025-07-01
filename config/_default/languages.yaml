@@ -56,6 +56,11 @@ en:
       url: "/jewish-life-on-campus/antisemitism-on-campus/"
       weight: 2
       parent: "jewish-life-on-campus"
+    - identifier: "important-updates"
+      name: "Important Updates"
+      url: "/important-updates/"
+      weight: 3
+      parent: "jewish-life-on-campus"
     - identifier: "open-letters"
       name: "Open Letters"
       url: "/open-letters/"
