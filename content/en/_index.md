@@ -18,7 +18,23 @@ showHeader: false
 # ✡︎
 </div>
 </div>
+
 <hr></hr>
+
+<div class="row">
+<div class="block-left">
+
+#### Important Update:
+</div>
+<div class="block-right">
+
+[MIT has been sued by The Louis D. Brandeis Center for Human Rights Under Law, on behalf of Jewish students, researchers and faculty.](/important-updates/brandeis-center-lawsuit/)
+
+</div>
+</div>
+
+<hr></hr>
+
 {{< columns count=2 >}}
 {{< column >}}
 {{< intro >}}
@@ -29,6 +45,8 @@ showHeader: false
 Want to volunteer? Email us at [volunteer@mitjaa.org](mailto:volunteer@mitjaa.org)
 
 Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other questions.
+
+<a href="https://twitter.com/jaa_mit_post?ref_src=twsrc%5Etfw" class="button"><img src="/img/social-icons/x.svg" loading="eager" style="max-height: 12px;"></img> Follow @jaa_mit_post</a>
 {{< /intro >}}
 
 <hr></hr>
