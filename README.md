@@ -72,6 +72,8 @@ Every time your content is updated, you need to update the search index by again
 
 - setup prettier to keep our code tidy
 
+- clean up links. don't need html target=_blank anymore for new tabs! just use markdown and it will work!
+
 ## Issues
 - if editing a page using the hugo-embed-pdf-shortcode theme, the PDF will fail to display on the server automatic reload.
     - solution: simply stop and start the server manually in your terminal, and then do a manual page refresh
