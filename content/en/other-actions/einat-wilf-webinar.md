@@ -4,6 +4,8 @@ date: 2025-06-18
 summary: Our distinguished speaker, Dr. Einat Wilf, shared her powerful insights on antisemitism, the use of prestigious institutions to legitimize and reinforce anti-Jewish libels, and the targeting of Israel as the existential battle against the collective Jew.
 ---
 
+## June 18, 2025
+
 {{< iframe src="https://www.youtube.com/embed/PAxHnIMux3c?si=wlBKcz9njnsl8eW4" >}}
 
 ### Dr. Einat Wilf: Antisemitism in Higher Education: Unmasking the Lie of Anti-Zionism
