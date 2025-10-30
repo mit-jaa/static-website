@@ -156,21 +156,21 @@ We expect MIT to take immediate disciplinary action against this student speaker
 {{< columns count=2 >}}
 {{< column >}}
 <div class="logo-container">
-<a href="/open-letters/2025-03-19/"><img src="/new_logo_circle.png" loading="eager"></img></a>
+<a href="/open-letters/2025-10-27/"><img src="/new_logo_circle.png" loading="eager"></img></a>
 </div>
-<h2><a href="/open-letters/2025-03-19/">Open Letter regarding MIT’s funding and sanctioning of campus antisemitism</a></h2>
+<h2><a href="/open-letters/2025-10-27/">Open Letter to President Kornbluth and the MIT Corporation regarding antisemitism training</a></h2>
 <h5>March 19, 2025</h5>
-<p>We, the undersigned members and supporters of the MIT Jewish Alumni Alliance, are keenly aware of your recent attention to the impact that initiation of Federal penalties will have on universities that continue to engage in civil rights violations. Your address of March 4th to the MIT community focused primarily on the threat to money streams and to cash flow to MIT, while also announcing a hiring freeze. A significant driver of current Federal hostility toward institutions of higher education, including MIT, results from the sponsoring by these institutions, of events that champion hate speech against Jews which serve to foster and worsen an environment already threatening to the Jewish community. The position of the Federal government on …</p>
+<p>There is no higher duty of a university than its obligation to ensure the safety and wellbeing of its academic community. For more than two years, MIT’s Jewish community has faced - at times daily - an unprecedented surge of antisemitic acts generated from all corners of the MIT campus. These bold and unapologetic acts of Jew-hatred have ranged from harassment and intimidation, to vandalism and malicious destruction of personal property. They include subjecting students to antisemitic slurs, verbal assaults, and direct and indirect threats.</p>
 
 {{< /column >}}
 
 {{< column >}}
 <div class="logo-container">
-<a href="/open-letters/2024-12-10/"><img src="/new_logo_circle.png" loading="eager"></img></a>
+<a href="/open-letters/2025-03-19/"><img src="/new_logo_circle.png" loading="eager"></img></a>
 </div>
-<h2><a href="/open-letters/2024-12-10/">Open Letter about a professor harassed on campus</a></h2>
-<h5>December 10, 2024</h5>
-<p>We would like to thank you for condemning the actions targeting Professor Daniela Rus and her laboratory and we hope that those responsible will be promptly identified and appropriately disciplined. We must, however, point out that the egregious actions targeting Professor Rus have been enabled by the pervasive and hostile atmosphere of antisemitism and harassment of Jews that has been allowed to flourish on the MIT campus, with a noticeable acceleration since October 7, 2023. This poisonous atmosphere persists because MIT leadership and administrators have been unable or unwilling to take actions necessary to squarely address and decisively eliminate this antisemitic scourge.</p>
+<h2><a href="/open-letters/2025-03-19/">Open Letter regarding MIT’s funding and sanctioning of campus antisemitism</a></h2>
+<h5>March 19, 2025</h5>
+<p>We, the undersigned members and supporters of the MIT Jewish Alumni Alliance, are keenly aware of your recent attention to the impact that initiation of Federal penalties will have on universities that continue to engage in civil rights violations. Your address of March 4th to the MIT community focused primarily on the threat to money streams and to cash flow to MIT, while also announcing a hiring freeze. A significant driver of current Federal hostility toward institutions of higher education, including MIT, results from the sponsoring by these institutions, of events that champion hate speech against Jews which serve to foster and worsen an environment already threatening to the Jewish community. The position of the Federal government on …</p>
 
 {{< /column >}}
 {{< /columns >}}
