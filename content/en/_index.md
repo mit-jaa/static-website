@@ -159,7 +159,7 @@ We expect MIT to take immediate disciplinary action against this student speaker
 <a href="/open-letters/2025-10-27/"><img src="/new_logo_circle.png" loading="eager"></img></a>
 </div>
 <h2><a href="/open-letters/2025-10-27/">Open Letter to President Kornbluth and the MIT Corporation regarding antisemitism training</a></h2>
-<h5>March 19, 2025</h5>
+<h5>October 27, 2025</h5>
 <p>There is no higher duty of a university than its obligation to ensure the safety and wellbeing of its academic community. For more than two years, MIT’s Jewish community has faced - at times daily - an unprecedented surge of antisemitic acts generated from all corners of the MIT campus. These bold and unapologetic acts of Jew-hatred have ranged from harassment and intimidation, to vandalism and malicious destruction of personal property. They include subjecting students to antisemitic slurs, verbal assaults, and direct and indirect threats.</p>
 
 {{< /column >}}
