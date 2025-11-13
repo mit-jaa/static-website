@@ -71,7 +71,26 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 <a href="https://twitter.com/jaa_mit_post?ref_src=twsrc%5Etfw" class="button"><img src="/img/social-icons/x.svg" loading="eager" style="max-height: 12px;"></img> Follow @jaa_mit_post</a>
 {{< /intro >}}
 
+<!-- <hr></hr> -->
+
+{{< /column >}}
+
+{{< column >}}
+
+<div class="logo-container">
+<a href="/open-letters/2025-10-27/"><img src="/new_logo_circle.png" loading="eager"></img></a>
+</div>
+<h2><a href="/open-letters/2025-10-27/">Open Letter to President Kornbluth and the MIT Corporation regarding antisemitism training</a></h2>
+<h5>October 27, 2025</h5>
+<p>There is no higher duty of a university than its obligation to ensure the safety and wellbeing of its academic community. For more than two years, MIT’s Jewish community has faced - at times daily - an unprecedented surge of antisemitic acts generated from all corners of the MIT campus. These bold and unapologetic acts of Jew-hatred have ranged from harassment and intimidation, to vandalism and malicious destruction of personal property. They include subjecting students to antisemitic slurs, verbal assaults, and direct and indirect threats.</p>
+
+{{< /column >}}
+{{< /columns >}}
+
 <hr></hr>
+
+{{< columns count=2 >}}
+{{< column >}}
 
 ### [The March on Washington for Jewish Civil Rights, June 26, 2025](/other-actions/march-on-washington/)
 
@@ -80,9 +99,7 @@ The March on Washington for Jewish Civil Rights, with MIT JAA among several spon
 #### [JNS - House ed panel will keep probing ‘scourge’ of campus Jew-hatred:](https://www.jns.org/house-ed-panel-will-keep-probing-scourge-of-campus-jew-hatred/)
 ##### “Fighting antisemitism means we must understand it,” Rep. Tim Walberg said at the March on Washington for Jewish Civil Rights.
 
-{{< /column >}}
-
-{{< column >}}
+{{<spacer>}}
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, Chairman <a href="https://twitter.com/RepWalberg?ref_src=twsrc%5Etfw">@RepWalberg</a> joined the March on Washington for Jewish Civil Rights to highlight the Committee&#39;s work to stop the antisemitism spreading in America&#39;s classrooms.<br><br>The Committee is resolute in its efforts to defend Jewish students.<a href="https://t.co/SNHDmOKhgM">https://t.co/SNHDmOKhgM</a> <a href="https://t.co/VahO38MkL0">pic.twitter.com/VahO38MkL0</a></p>&mdash; House Committee on Education &amp; Workforce (@EdWorkforceCmte) <a href="https://twitter.com/EdWorkforceCmte/status/1938324283438063849?ref_src=twsrc%5Etfw">June 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -90,13 +107,8 @@ The March on Washington for Jewish Civil Rights, with MIT JAA among several spon
 
 Follow <a href="https://www.instagram.com/marchforcivilrights/" target="_blank">@marchforcivilrights on instagram</a> and <a href="https://x.com/MarchForCR" target="_blank">@MarchForCR on X</a> for more information!
 
-
 {{< /column >}}
-{{< /columns >}}
 
-<hr></hr>
-
-{{< columns count=2 >}}
 {{< column >}}
 
 <div class="shift-up">
@@ -128,14 +140,16 @@ MIT Jewish Alumni Alliance
 </div>
 
 {{< /column >}}
+{{< /columns >}}
+<hr></hr>
 
+{{< columns count=2 >}}
 {{< column >}}
 
 <div class="logo-container">
-<img src="/new_logo_circle.png" loading="eager"></img>
+<a href="/open-letters/2025-05-30/"><img src="/new_logo_circle.png" loading="eager"></img></a>
 </div>
-
-### Statement from MIT JAA regarding MIT 2025 graduation ceremony
+<h2><a href="/open-letters/2025-05-30/">Statement from MIT JAA regarding MIT 2025 graduation ceremony</a></h2>
 
 ##### Posted May 30, 2025
 
@@ -148,19 +162,6 @@ MIT JAA is profoundly disappointed in the MIT leadership and administration who 
 MIT JAA is also profoundly disappointed in President Sally Kornbluth, who, speaking immediately after the student speaker, failed to address or acknowledge what had transpired.
 
 We expect MIT to take immediate disciplinary action against this student speaker.
-
-{{< /column >}}
-{{< /columns >}}
-<hr></hr>
-
-{{< columns count=2 >}}
-{{< column >}}
-<div class="logo-container">
-<a href="/open-letters/2025-10-27/"><img src="/new_logo_circle.png" loading="eager"></img></a>
-</div>
-<h2><a href="/open-letters/2025-10-27/">Open Letter to President Kornbluth and the MIT Corporation regarding antisemitism training</a></h2>
-<h5>October 27, 2025</h5>
-<p>There is no higher duty of a university than its obligation to ensure the safety and wellbeing of its academic community. For more than two years, MIT’s Jewish community has faced - at times daily - an unprecedented surge of antisemitic acts generated from all corners of the MIT campus. These bold and unapologetic acts of Jew-hatred have ranged from harassment and intimidation, to vandalism and malicious destruction of personal property. They include subjecting students to antisemitic slurs, verbal assaults, and direct and indirect threats.</p>
 
 {{< /column >}}
 
