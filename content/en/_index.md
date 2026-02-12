@@ -35,28 +35,6 @@ showHeader: false
 
 <hr></hr>
 
-<div class="row">
-<div class="block">
-
-# 🍎🍯
-</div>
-<div class="block">
-
-### Shana Tova!
-
-The MIT Jewish Alumni Alliance wishes all MIT Jewish students and Jewish members of our community a healthy, happy, and fulfilling New Year. We recognize 5785 presented challenges as well as opportunities. As the sun sets and the shofar sounds, may you find the courage to sail safely through this turbulence, find the strength to overcome fear, find the joy in your life, and find the the pride of being part of a wonderful Jewish community.
-
-\- MITJAA Executive Committee
-
-</div>
-<div class="block">
-
-# 🍎🍯
-</div>
-</div>
-
-<hr></hr>
-
 {{< columns count=2 >}}
 {{< column >}}
 {{< intro >}}
@@ -77,6 +55,37 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 
 {{< column >}}
 
+### MIT Jewish Alumni Alliance (MIT JAA) presents “The Protocols of the Elders of Anti-Zion".
+
+<div class="image-container-tall">
+<a href="" target="_blank"><img src="/img/andrew_pessin.png" loading="eager"></img></a>
+</div>
+
+Join us for an exclusive webinar featuring renowned author and speaker, **Dr. Andrew Pessin,** author of the highly acclaimed book, “Israel Breathes, World Condemns”, where he skillfully unmasks the roots of Anti-Zionism. The event will be moderated by MIT Physics Professor and co-founder of the MIT Kalaniyot Foundation, Dr. Or Hen, and includes an introduction by Dr. Lori Ullman, a founding member and leader of MIT JAA.
+
+**To Learn More and Register:**
+
+
+
+**About our featured speaker:**
+
+**Andrew Pessin,** is a philosopher, author, thought leader, and former Campus Bureau Editor for “The Algemeiner”. He recently launched a new platform for study and analysis of antizionism, “Institute for the Critical Study of Antizionism" (ICSA). His insights into antisemitism and anti-Zionism and the impact they have on higher education give him a broad and thoughtful perspective in this crucial conversation, and a pivotal voice in the discussion. Don't miss this opportunity to hear directly from Andrew Pessin, an expert with first-hand experience and knowledge. Highly Recommended Reading: Dr. Pessin’s book, “Isreal Breathes, World Condemns” (2 vols.).
+
+[ISRAEL BREATHES. WORLD CONDEMNS.: Volume I: The Trajectory (Before October 7, from the Campus Front)](https://www.amazon.com/gp/product/B0DS133Z8Z?storeType=ebooks)
+
+[ISRAEL BREATHES. WORLD CONDEMNS.: Volume II: The Aftermath (Reverberations and Reflections on October 7, from the Campus Front)](https://www.amazon.com/ISRAEL-BREATHES-WORLD-CONDEMNS-Reverberations/dp/B0DS12M4D5/ref=pd_bxgy_thbs_d_sccl_1/144-1111282-6348743?pd_rd_w=mWQRD&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=FTJVM2ZP2T0ZE5F14A05&pd_rd_wg=z3PIf&pd_rd_r=a54b8d16-b668-4cd5-a214-dcd9714dbaf3&pd_rd_i=B0DS12M4D5&psc=1)
+
+
+RSVP Now:
+
+{{< /column >}}
+{{< /columns >}}
+
+<hr></hr>
+
+{{< columns count=2 >}}
+{{< column >}}
+
 <div class="logo-container">
 <a href="/open-letters/2025-10-27/"><img src="/new_logo_circle.png" loading="eager"></img></a>
 </div>
@@ -85,11 +94,7 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 <p>There is no higher duty of a university than its obligation to ensure the safety and wellbeing of its academic community. For more than two years, MIT’s Jewish community has faced - at times daily - an unprecedented surge of antisemitic acts generated from all corners of the MIT campus. These bold and unapologetic acts of Jew-hatred have ranged from harassment and intimidation, to vandalism and malicious destruction of personal property. They include subjecting students to antisemitic slurs, verbal assaults, and direct and indirect threats.</p>
 
 {{< /column >}}
-{{< /columns >}}
 
-<hr></hr>
-
-{{< columns count=2 >}}
 {{< column >}}
 
 ### [The March on Washington for Jewish Civil Rights, June 26, 2025](/other-actions/march-on-washington/)
@@ -108,7 +113,10 @@ The March on Washington for Jewish Civil Rights, with MIT JAA among several spon
 Follow <a href="https://www.instagram.com/marchforcivilrights/" target="_blank">@marchforcivilrights on instagram</a> and <a href="https://x.com/MarchForCR" target="_blank">@MarchForCR on X</a> for more information!
 
 {{< /column >}}
+{{< /columns >}}
+<hr></hr>
 
+{{< columns count=2 >}}
 {{< column >}}
 
 <div class="shift-up">
@@ -140,10 +148,7 @@ MIT Jewish Alumni Alliance
 </div>
 
 {{< /column >}}
-{{< /columns >}}
-<hr></hr>
 
-{{< columns count=2 >}}
 {{< column >}}
 
 <div class="logo-container">
@@ -162,16 +167,6 @@ MIT JAA is profoundly disappointed in the MIT leadership and administration who 
 MIT JAA is also profoundly disappointed in President Sally Kornbluth, who, speaking immediately after the student speaker, failed to address or acknowledge what had transpired.
 
 We expect MIT to take immediate disciplinary action against this student speaker.
-
-{{< /column >}}
-
-{{< column >}}
-<div class="logo-container">
-<a href="/open-letters/2025-03-19/"><img src="/new_logo_circle.png" loading="eager"></img></a>
-</div>
-<h2><a href="/open-letters/2025-03-19/">Open Letter regarding MIT’s funding and sanctioning of campus antisemitism</a></h2>
-<h5>March 19, 2025</h5>
-<p>We, the undersigned members and supporters of the MIT Jewish Alumni Alliance, are keenly aware of your recent attention to the impact that initiation of Federal penalties will have on universities that continue to engage in civil rights violations. Your address of March 4th to the MIT community focused primarily on the threat to money streams and to cash flow to MIT, while also announcing a hiring freeze. A significant driver of current Federal hostility toward institutions of higher education, including MIT, results from the sponsoring by these institutions, of events that champion hate speech against Jews which serve to foster and worsen an environment already threatening to the Jewish community. The position of the Federal government on …</p>
 
 {{< /column >}}
 {{< /columns >}}
