@@ -1,9 +1,9 @@
 // General rules of typography that apply across the whole website.
 // Set body size.
 body {
-    font-size: 0.875em;
+    font-size: 1em;
     @media (min-width: 500px) {
-        font-size: 1em;
+        font-size: 1.1em;
     }
     font-weight: 400;
     color: var(--text-color);
