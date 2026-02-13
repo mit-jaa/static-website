@@ -62,7 +62,7 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 
 Join us for an exclusive webinar featuring renowned author and speaker, **Dr. Andrew Pessin,** author of the highly acclaimed book, “Israel Breathes, World Condemns”, where he skillfully unmasks the roots of Anti-Zionism. The event will be moderated by MIT Physics Professor and co-founder of the Kalaniyot Foundation, Dr. Or Hen, and includes an introduction by Dr. Lori Ullman, a founding member and leader of MIT JAA.
 
-**To Learn More and Register:** [The Protocols of the Elders of Anti-Zionism](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
+**To Learn More and Register:** [The Protocols of the Elders of Anti-Zionism: The History of an Ideology](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
 
 
 
@@ -75,7 +75,7 @@ Join us for an exclusive webinar featuring renowned author and speaker, **Dr. An
 [ISRAEL BREATHES. WORLD CONDEMNS.: Volume II: The Aftermath (Reverberations and Reflections on October 7, from the Campus Front)](https://www.amazon.com/ISRAEL-BREATHES-WORLD-CONDEMNS-Reverberations/dp/B0DS12M4D5/ref=pd_bxgy_thbs_d_sccl_1/144-1111282-6348743?pd_rd_w=mWQRD&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=FTJVM2ZP2T0ZE5F14A05&pd_rd_wg=z3PIf&pd_rd_r=a54b8d16-b668-4cd5-a214-dcd9714dbaf3&pd_rd_i=B0DS12M4D5&psc=1)
 
 
-**RSVP Now:** [The Protocols of the Elders of Anti-Zionism](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
+**RSVP Now:** [The Protocols of the Elders of Anti-Zionism: The History of an Ideology](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
 
 Registration limit: 300
 
