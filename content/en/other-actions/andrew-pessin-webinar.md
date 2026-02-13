@@ -11,7 +11,7 @@ summary: Join us for an exclusive webinar featuring renowned author and speaker,
 </div>
 <a href="https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505" target="_blank"><h3>MIT Jewish Alumni Alliance (MIT JAA) Presents “The Protocols of the Elders of Antizionism: History of an Ideology", March 11, 2025 at 1 pm EST</h3></a>
 
-Join us for an exclusive webinar featuring renowned author and speaker, **Dr. Andrew Pessin,** author of the highly acclaimed book, “Israel Breathes, World Condemns”, where he skillfully unmasks the roots of antizionism. The event will be moderated by MIT Physics Professor and co-founder of the Kalaniyot Foundation, Dr. Or Hen, and includes an introduction by Dr. Lori Ullman, a founding member and leader of MIT JAA.
+Join us for an exclusive webinar featuring renowned author and speaker, **Dr. Andrew Pessin,** author of the highly acclaimed book, “Israel Breathes, World Condemns”, where he skillfully unmasks the roots of antizionism. The event will be moderated by MIT Physics Professor and co-founder of the [Kalaniyot Foundation,](https://kalaniyot.org/) Dr. Or Hen, and includes an introduction by Dr. Lori Ullman, a founding member and leader of MIT JAA.
 
 **To Learn More and Register:** [The Protocols of the Elders of Antizionism: History of an Ideology](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
 
