@@ -19,16 +19,41 @@ showHeader: false
 </div>
 </div>
 
-<hr></hr>
+<img src="flourish-divider.png" alt="Calligraphy flourish divider" class="flourish-divider">
+
+<div class="row">
+<div class="block">
+
+# 🍷🫓
+</div>
+<div class="block">
+
+### Chag Pesach Sameach!
+#### חג פסח שמח
+
+**As we celebrate Passover with retelling the story of Jewish freedom and resilience, let us rejoice and take pride in our strong and committed MIT Jewish community.**
+
+**Wishing all a Chag Pesach Sameach filled with love, laughter, and cherished traditions.**
+
+**- MITJAA Executive Committee**
+
+</div>
+<div class="block">
+
+# 🍷🫓
+</div>
+</div>
+
+<img src="flourish-divider-flipped.png" alt="Calligraphy flourish divider flipped" class="flourish-divider-bottom">
 
 <div class="row">
 <div class="block-left">
 
-#### Important Update:
+#### LEGAL NEWS:
 </div>
 <div class="block-right">
 
-[MIT has been sued by The Louis D. Brandeis Center for Human Rights Under Law, on behalf of Jewish students, researchers and faculty.](/important-updates/brandeis-center-lawsuit/)
+[“The Louis D. Brandeis Center for Human Rights Under Law, on Behalf of Jewish students, researchers and faculty“ Law Suit](/important-updates/brandeis-center-lawsuit/)
 
 </div>
 </div>
