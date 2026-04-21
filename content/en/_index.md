@@ -19,32 +19,7 @@ showHeader: false
 </div>
 </div>
 
-<img src="flourish-divider.png" alt="Calligraphy flourish divider" class="flourish-divider">
-
-<div class="row">
-<div class="block">
-
-# 🍷🫓
-</div>
-<div class="block">
-
-### Chag Pesach Sameach!
-#### חג פסח שמח
-
-**As we celebrate Passover with retelling the story of Jewish freedom and resilience, let us rejoice and take pride in our strong and committed MIT Jewish community.**
-
-**Wishing all a Chag Pesach Sameach filled with love, laughter, and cherished traditions.**
-
-**- MITJAA Executive Committee**
-
-</div>
-<div class="block">
-
-# 🍷🫓
-</div>
-</div>
-
-<img src="flourish-divider-flipped.png" alt="Calligraphy flourish divider flipped" class="flourish-divider-bottom">
+<hr></hr>
 
 <div class="row">
 <div class="block-left">
@@ -58,6 +33,25 @@ showHeader: false
 </div>
 </div>
 
+<hr></hr>
+{{<spacer>}}
+
+<div class="row">
+<div class="block-left">
+</div>
+<div class="block-right">
+
+<a href="https://isgap.org/flashpoint/ethics-and-the-institutional-review-board/" target="_blank"><h2>Ethics and the Institutional Review Board: The Need for a System of Checks and Balances in Academia and Academic Research</h2></a>
+<h5>April 14, 2026</h5>
+
+Dr. Lori Ullman, a founding member and leader of MIT JAA, has published an essay in the ISGAP Flashpoint journal outlining a novel initiative to combat antisemitism in academia. The full essay can be found on [ISGAP Flashpoint.](https://isgap.org/flashpoint/ethics-and-the-institutional-review-board/)
+
+(The opinions expressed by the author are her own and do not necessarily reflect those of MITJAA).
+
+</div>
+</div>
+
+{{<spacer>}}
 <hr></hr>
 
 {{< columns count=2 >}}
