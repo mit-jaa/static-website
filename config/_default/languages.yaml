@@ -1,5 +1,5 @@
 en:
-  languageName: English
+  label: English
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} MIT Jewish Alumni Alliance. All Rights Reserved."

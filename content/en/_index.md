@@ -24,11 +24,11 @@ showHeader: false
 <div class="row">
 <div class="block-left">
 
-#### LEGAL NEWS:
+### LEGAL NEWS:
 </div>
 <div class="block-right">
 
-[“The Louis D. Brandeis Center for Human Rights Under Law, on Behalf of Jewish students, researchers and faculty“ Law Suit](/important-updates/brandeis-center-lawsuit/)
+### [Court Partially Dismisses the Brandeis Center Antisemitism Lawsuit Against MIT](/jewish-life-on-campus/important-updates/brandeis-center-lawsuit/)
 
 </div>
 </div>
