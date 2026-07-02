@@ -2,7 +2,7 @@
 title: Brandeis Center Lawsuit against MIT
 date: 2025-06-25
 showBreadcrumbs: true
-summary: Stay up to date on important news about Jewish life at MIT
+summary: Updates and information regarding the Brandeis Center Lawsuit against MIT
 ---
 
 ## June 25, 2025
