@@ -104,7 +104,7 @@ MIT professor, Yossi Sheffi, has just published a book chronicling antisemitism 
 
 #### _Registration is now closed and the event has ended_
 
-<div class="image-container-tall">
+<div class="image-container-passport">
 <a href="https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505" target="_blank"><img src="/img/andrew_pessin.png" loading="eager"></img></a>
 </div>
 <a href="https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505" target="_blank"><h3>MIT Jewish Alumni Alliance (MIT JAA) Presents “The Protocols of the Elders of Antizionism: History of an Ideology", March 11, 2026 at 1 pm EST</h3></a>
