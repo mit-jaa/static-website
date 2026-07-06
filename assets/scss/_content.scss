@@ -1,234 +1,237 @@
 // Specific rules to page content.
 
 .content {
-    min-height: calc(100vh - 375px);
-    > * {
-        max-width: var(--content-width);
-    }
+  min-height: calc(100vh - 375px);
+  > * {
+    max-width: var(--content-width);
+  }
 
-    .embed-pdf-container {
-        max-width: 1000px;
-    }
+  .embed-pdf-container {
+    max-width: 1000px;
+  }
 
-    .pdf-paginator {
-        margin-top: 10px;
+  .pdf-paginator {
+    margin-top: 10px;
 
-        button {
-            cursor: pointer;
-            border: var(--primary-700);
-            color: var(--white);
-            display: inline-block;
-            padding: 10px 20px;
-            border-radius: 47px;
-            background-color: var(--primary-700);
-            fill: var(--white);
-            text-transform: uppercase;
-            text-decoration: none;
-            line-height: 1;
-            text-align: center;
-            letter-spacing: 0.7px;
+    button {
+      cursor: pointer;
+      border: var(--primary-700);
+      color: var(--white);
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 47px;
+      background-color: var(--primary-700);
+      fill: var(--white);
+      text-transform: uppercase;
+      text-decoration: none;
+      line-height: 1;
+      text-align: center;
+      letter-spacing: 0.7px;
 
-            &:hover,
-            &:active {
-                fill: var(--white);
-                background-color: var(--primary-800);
-            }
-        }
-    }
-
-    #overlayText a {
-        display: inline-block;
-        padding: 10px 20px;
-        border-radius: 47px;
-        background-color: var(--primary-700);
+      &:hover,
+      &:active {
         fill: var(--white);
-        text-transform: uppercase;
-        text-decoration: none;
-        line-height: 1;
-        text-align: center;
-        letter-spacing: 0.7px;
+        background-color: var(--primary-800);
+      }
+    }
+  }
 
-        &:hover,
-        &:active {
-            fill: var(--white);
-            background-color: var(--primary-800);
-        }
+  #overlayText a {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 47px;
+    background-color: var(--primary-700);
+    fill: var(--white);
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 0.7px;
+
+    &:hover,
+    &:active {
+      fill: var(--white);
+      background-color: var(--primary-800);
+    }
+  }
+
+  .cover-image {
+    max-height: 300px;
+  }
+
+  .row {
+    display: flex;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+
+    .block-left {
+      max-width: min-content;
+      margin-left: auto;
+      align-self: center;
+      white-space: nowrap;
+      padding-right: 15px;
+      @media (max-width: $min-desktop) {
+        white-space: normal;
+      }
+      h3 {
+        color: var(--menu-color);
+      }
     }
 
-    .cover-image {
-        max-height: 300px;
+    .block-right {
+      max-width: fit-content;
+      margin-right: auto;
     }
+  }
 
-    .row {
-        display: flex;
-        width: 100%;
-        margin-left: auto;
-        margin-right: auto;
-        text-align: center;
-        align-items: center;
+  .block {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+  }
+  ​ .shift-up {
+    margin-top: -30px;
+  }
 
-        .block-left {
-            max-width: min-content;
-            margin-left: auto;
-            align-self: center;
-            white-space: nowrap;
-            padding-right: 15px;
-            @media (max-width: $min-desktop) {
-                white-space: normal;
-            }
-            h3 {
-                color: var(--menu-color);
-            }
-        }
-
-        .block-right {
-            max-width: fit-content;
-            margin-right: auto;
-        }
-    }
-
-    .block {
-        width: fit-content;
-        margin-left: auto;
-        margin-right: auto;
-        align-self: center;
-    }​
-
-    .shift-up {
-        margin-top: -30px;
-    }
-
-    .image-container-tall {
-        a {
-            img {
-                max-height: 500px;
-            }
-        }
-    }
-
-    .logo-container {
-        max-width: 300px;
-        max-height: 300px;
-    }
-
-    .image-container {
-        width: fit-content;
-        max-width: 300px;
-        iframe {
-
-            @media (min-width: $min-desktop) {
-                min-width: 625px;
-                min-height: 352px;
-            }
-
-            @media (max-width: $mobile-max)
-            and (min-width: 551px) {
-                min-width: 500px;
-                min-height: 282px;
-            }
-
-            @media (max-width: 550px)
-            and (min-width: 451px) {
-                min-width: 400px;
-                max-height: 225px;
-            }
-
-            @media (max-width: 450px)
-            and (min-width: 351px) {
-                min-width: 300px;
-                max-height: 169px;
-            }
-        }
-    }
-
-    .image-metadata {
-        font-size: 14px;
-        border-bottom-color: var(--gray-600);
-        border-bottom-style: solid;
-    }
-
-    .full-width,
-    div,
-    iframe {
-        width: 100%;
-        max-width: 100%;
-
-        /* Container holding the image and the text */
-        .image-text-container {
-            position: relative;
-            text-align: center;
-            color: white;
-        }
-        
-        /* Top left text */
-        .top-left {
-            width: auto;
-            text-align: left;
-            position: absolute;
-            top: 8px;
-            left: 16px;
-        }
-        
-        /* Top right text */
-        .top-right {
-            width: auto;
-            position: absolute;
-            top: 8px;
-            right: 16px;
-        }
-
-        /* Bottom left text */
-        .bottom-left {
-            width: auto;
-            position: absolute;
-            bottom: 8px;
-            left: 16px;
-        }
-        
-        /* Bottom right text */
-        .bottom-right {
-            width: auto;
-            position: absolute;
-            bottom: 8px;
-            right: 16px;
-        }
-        
-        /* Centered text */
-        .centered {
-            width: auto;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
-    }
-
-    img {
-        max-width: 100%;
-    }
-
-    // Code block restriction.
-    div.highlight {
-        max-width: var(--content-width);
-    }
-
-    // Stops links pushing out container.
+  .image-container-tall {
     a {
-        overflow-wrap: break-word;
-        word-wrap: break-word;
-        word-break: break-all;
-        word-break: break-word;
-        hyphens: auto;
+      img {
+        max-height: 500px;
+      }
+    }
+  }
+
+  .image-container-passport {
+    a {
+      img {
+        max-height: 300px;
+      }
+    }
+  }
+
+  .logo-container {
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+  .image-container {
+    width: fit-content;
+    max-width: 300px;
+    iframe {
+      @media (min-width: $min-desktop) {
+        min-width: 625px;
+        min-height: 352px;
+      }
+
+      @media (max-width: $mobile-max) and (min-width: 551px) {
+        min-width: 500px;
+        min-height: 282px;
+      }
+
+      @media (max-width: 550px) and (min-width: 451px) {
+        min-width: 400px;
+        max-height: 225px;
+      }
+
+      @media (max-width: 450px) and (min-width: 351px) {
+        min-width: 300px;
+        max-height: 169px;
+      }
+    }
+  }
+
+  .image-metadata {
+    font-size: 14px;
+    border-bottom-color: var(--gray-600);
+    border-bottom-style: solid;
+  }
+
+  .full-width,
+  div,
+  iframe {
+    width: 100%;
+    max-width: 100%;
+
+    /* Container holding the image and the text */
+    .image-text-container {
+      position: relative;
+      text-align: center;
+      color: white;
     }
 
-    // Fixes nested UL spacing - see TOC.
-    ul ul {
-        margin-top: 12px;
+    /* Top left text */
+    .top-left {
+      width: auto;
+      text-align: left;
+      position: absolute;
+      top: 8px;
+      left: 16px;
     }
 
-    hr {
-        height:2px;
-        border-width:0;
-        background-color: var(--primary-400);
+    /* Top right text */
+    .top-right {
+      width: auto;
+      position: absolute;
+      top: 8px;
+      right: 16px;
     }
+
+    /* Bottom left text */
+    .bottom-left {
+      width: auto;
+      position: absolute;
+      bottom: 8px;
+      left: 16px;
+    }
+
+    /* Bottom right text */
+    .bottom-right {
+      width: auto;
+      position: absolute;
+      bottom: 8px;
+      right: 16px;
+    }
+
+    /* Centered text */
+    .centered {
+      width: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  // Code block restriction.
+  div.highlight {
+    max-width: var(--content-width);
+  }
+
+  // Stops links pushing out container.
+  a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  // Fixes nested UL spacing - see TOC.
+  ul ul {
+    margin-top: 12px;
+  }
+
+  hr {
+    height: 2px;
+    border-width: 0;
+    background-color: var(--primary-400);
+  }
 }
