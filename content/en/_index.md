@@ -64,7 +64,7 @@ Dr. Lori Ullman, a founding member and leader of MIT JAA, has published an essay
 {{< column >}}
 {{< intro >}}
 
-## Join 1800+ supporters
+## Join our almost 2000 supporters
 
 #### Stay in the loop with our mailing list.
 
