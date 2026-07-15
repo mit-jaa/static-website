@@ -4,3 +4,17 @@ hr {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.flourish-divider {
+    display: block; /* Centers the image */
+    margin: 0px auto; /* Adjusts vertical spacing and centers */
+    width: 100%; /* Adjusts the width of the divider on the page */
+    max-height: 50px; /* Sets a maximum size for larger screens */
+}
+
+.flourish-divider-bottom {
+    display: block; /* Centers the image */
+    margin: 25px auto; /* Adjusts vertical spacing and centers */
+    width: 100%; /* Adjusts the width of the divider on the page */
+    max-height: 50px; /* Sets a maximum size for larger screens */
+}

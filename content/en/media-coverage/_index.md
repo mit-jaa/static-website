@@ -5,6 +5,10 @@ summary: We’ve been in the news!
 
 ## We’ve been in the news!
 
+### April 2026
++ ISGAP Flashpoint - ["Ethics and the Institutional Review Board: The Need for a System of Checks and Balances in Academia and Academic Research,"](https://isgap.org/flashpoint/ethics-and-the-institutional-review-board/) April 14, 2026
+    + (The opinions expressed by the author are her own and do not necessarily reflect those of MITJAA).
+
 ### December 2024
 + Algemeiner – [“MIT Jewish Alumni Group Urges Action on Campus Antisemitism After Smear Campaign,”](https://www.algemeiner.com/2024/12/11/mit-jewish-alumni-group-urges-action-campus-antisemitism-after-smear-campaign/) December 11, 2024
 

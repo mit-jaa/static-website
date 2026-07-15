@@ -7,6 +7,31 @@ summary: View past holiday greetings
 <div class="row">
 <div class="block">
 
+# 🍷🫓
+</div>
+<div class="block">
+
+### Chag Pesach Sameach!
+#### חג פסח שמח
+
+**As we celebrate Passover with retelling the story of Jewish freedom and resilience, let us rejoice and take pride in our strong and committed MIT Jewish community.**
+
+**Wishing all a Chag Pesach Sameach filled with love, laughter, and cherished traditions.**
+
+**- MITJAA Executive Committee**
+
+</div>
+<div class="block">
+
+# 🍷🫓
+</div>
+</div>
+
+<hr></hr>
+
+<div class="row">
+<div class="block">
+
 # 🍎🍯
 </div>
 <div class="block">
