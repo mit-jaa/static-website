@@ -2,13 +2,12 @@
 title: Privacy Policy
 showHeader: true
 weight: 30
+summary: "The MIT Jewish Alumni Alliance is an unincorporated association of MIT Jewish Alumni. Our website address is: https://www.mitjaa.org. Comments are disabled by default on this site. If visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection."
 ---
-
-<!-- let's review this content... do we still need it? -->
 
 ## Who we are
 
-We are the MIT Jewish Alumni Association, an unincorporated association of MIT Jewish Alumni. Our website address is: https://www.mitjaa.org.
+The MIT Jewish Alumni Alliance is an unincorporated association of MIT Jewish Alumni. Our website address is: https://www.mitjaa.org.
 
 ## Comments
 
