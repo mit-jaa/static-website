@@ -23,101 +23,106 @@ en:
   ### work on getting this to be more responsive to page sizes
   menu:
     main:
-    - identifier: "about"
-      name: "About"
-      url: "/about/"
-      weight: 1
-    - identifier: "about-us"
-      name: "About Us"
-      url: "/about/"
-      weight: 1
-      parent: "about"
-    - identifier: "mission-and-values"
-      name: "Mission & Values"
-      url: "/about/mission-and-values"
-      weight: 2
-      parent: "about"
-    - identifier: "privacy-policy"
-      name: "Privacy Policy"
-      url: "/about/privacy-policy/"
-      weight: 3
-      parent: "about"
-    - identifier: "jewish-life-on-campus"
-      name: "Jewish Life on Campus"
-      url: "/jewish-life-on-campus/"
-      weight: 10
-    - identifier: "accomplishments"
-      name: "Accomplishments"
-      url: "/jewish-life-on-campus/accomplishments/"
-      weight: 1
-      parent: "jewish-life-on-campus"
-    - identifier: "antisemitism-on-campus"
-      name: "Antisemitism on Campus"
-      url: "/jewish-life-on-campus/antisemitism-on-campus/"
-      weight: 2
-      parent: "jewish-life-on-campus"
-    - identifier: "important-updates"
-      name: "Important Updates"
-      url: "/jewish-life-on-campus/important-updates/"
-      weight: 3
-      parent: "jewish-life-on-campus"
-    - identifier: "holiday-greetings"
-      name: "Holiday Greetings"
-      url: "/jewish-life-on-campus/holiday-greetings/"
-      weight: 4
-      parent: "jewish-life-on-campus"
-    - identifier: "open-letters"
-      name: "Open Letters"
-      url: "/open-letters/"
-      weight: 20
-    - identifier: "other-actions"
-      name: "Other Actions"
-      url: "/other-actions/"
-      weight: 30
-    - identifier: "tech-editorial"
-      name: "Editorial in The Tech"
-      url: "https://thetech.com/2024/03/21/mit-jaa-suspend-caa"
-      weight: 1
-      parent: "other-actions"
-    - identifier: "mit-1-pledge"
-      name: "MIT $1 Pledge"
-      url: "/other-actions/mit-1-pledge/"
-      weight: 2
-      parent: "other-actions"
-    - identifier: "andrew-pessin-webinar"
-      name: "Dr. Andrew Pessin Webinar"
-      url: "/other-actions/andrew-pessin-webinar/"
-      weight: 3
-      parent: "other-actions"
-    - identifier: "einat-wilf-webinar"
-      name: "Dr. Einat Wilf Webinar"
-      url: "/other-actions/einat-wilf-webinar/"
-      weight: 4
-      parent: "other-actions"
-    - identifier: "2024-05-10-press-release"
-      name: "Press Release"
-      url: "/other-actions/2024-05-10-press-release/"
-      weight: 5
-      parent: "other-actions"
-    - identifier: "letter-of-opposition-to-ua-referendum"
-      name: "Letter of Opposition to UA Referendum"
-      url: "/other-actions/letter-of-opposition-to-ua-referendum/"
-      weight: 6
-      parent: "other-actions"
-    - identifier: "letter-to-senators"
-      name: "Letter to Senators Warren and Markey"
-      url: "/other-actions/letter-to-senators/"
-      weight: 7
-      parent: "other-actions"
-    - identifier: "all-other-actions"
-      name: "All Other Actions"
-      url: "/other-actions/"
-      weight: 8
-      parent: "other-actions"
-    - identifier: "media-coverage"
-      name: "Media Coverage"
-      url: "/media-coverage/"
-      weight: 40
+      - identifier: "about"
+        name: "About"
+        url: "/about/"
+        weight: 1
+      - identifier: "about-us"
+        name: "About Us"
+        url: "/about/"
+        weight: 1
+        parent: "about"
+      - identifier: "mission-and-values"
+        name: "Mission & Values"
+        url: "/about/mission-and-values"
+        weight: 2
+        parent: "about"
+      - identifier: "leadership"
+        name: "Leadership"
+        url: "/about/leadership"
+        weight: 3
+        parent: "about"
+      - identifier: "privacy-policy"
+        name: "Privacy Policy"
+        url: "/about/privacy-policy/"
+        weight: 4
+        parent: "about"
+      - identifier: "jewish-life-on-campus"
+        name: "Jewish Life on Campus"
+        url: "/jewish-life-on-campus/"
+        weight: 10
+      - identifier: "accomplishments"
+        name: "Accomplishments"
+        url: "/jewish-life-on-campus/accomplishments/"
+        weight: 1
+        parent: "jewish-life-on-campus"
+      - identifier: "antisemitism-on-campus"
+        name: "Antisemitism on Campus"
+        url: "/jewish-life-on-campus/antisemitism-on-campus/"
+        weight: 2
+        parent: "jewish-life-on-campus"
+      - identifier: "important-updates"
+        name: "Important Updates"
+        url: "/jewish-life-on-campus/important-updates/"
+        weight: 3
+        parent: "jewish-life-on-campus"
+      - identifier: "holiday-greetings"
+        name: "Holiday Greetings"
+        url: "/jewish-life-on-campus/holiday-greetings/"
+        weight: 4
+        parent: "jewish-life-on-campus"
+      - identifier: "open-letters"
+        name: "Open Letters"
+        url: "/open-letters/"
+        weight: 20
+      - identifier: "other-actions"
+        name: "Other Actions"
+        url: "/other-actions/"
+        weight: 30
+      - identifier: "tech-editorial"
+        name: "Editorial in The Tech"
+        url: "https://thetech.com/2024/03/21/mit-jaa-suspend-caa"
+        weight: 1
+        parent: "other-actions"
+      - identifier: "mit-1-pledge"
+        name: "MIT $1 Pledge"
+        url: "/other-actions/mit-1-pledge/"
+        weight: 2
+        parent: "other-actions"
+      - identifier: "andrew-pessin-webinar"
+        name: "Dr. Andrew Pessin Webinar"
+        url: "/other-actions/andrew-pessin-webinar/"
+        weight: 3
+        parent: "other-actions"
+      - identifier: "einat-wilf-webinar"
+        name: "Dr. Einat Wilf Webinar"
+        url: "/other-actions/einat-wilf-webinar/"
+        weight: 4
+        parent: "other-actions"
+      - identifier: "2024-05-10-press-release"
+        name: "Press Release"
+        url: "/other-actions/2024-05-10-press-release/"
+        weight: 5
+        parent: "other-actions"
+      - identifier: "letter-of-opposition-to-ua-referendum"
+        name: "Letter of Opposition to UA Referendum"
+        url: "/other-actions/letter-of-opposition-to-ua-referendum/"
+        weight: 6
+        parent: "other-actions"
+      - identifier: "letter-to-senators"
+        name: "Letter to Senators Warren and Markey"
+        url: "/other-actions/letter-to-senators/"
+        weight: 7
+        parent: "other-actions"
+      - identifier: "all-other-actions"
+        name: "All Other Actions"
+        url: "/other-actions/"
+        weight: 8
+        parent: "other-actions"
+      - identifier: "media-coverage"
+        name: "Media Coverage"
+        url: "/media-coverage/"
+        weight: 40
 # he:
 #   languageName: Hebrew
 #   contentDir: content/he
