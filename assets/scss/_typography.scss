@@ -61,13 +61,15 @@ h2,
 .leadership {
   h2,
   .h2 {
+    font-size: 28px;
     text-transform: none;
     color: var(--menu-color);
+    margin-block-end: 10px;
   }
 
   h3,
   .h3 {
-    margin-block-start: 10px;
+    margin-block-start: 8px;
   }
 }
 
