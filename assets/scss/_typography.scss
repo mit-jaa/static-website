@@ -65,11 +65,18 @@ h2,
     text-transform: none;
     color: var(--menu-color);
     margin-block-end: 10px;
+    @media (min-width: $min-desktop) {
+      font-size: 32px;
+      margin-block-end: 15px;
+    }
   }
 
   h3,
   .h3 {
     margin-block-start: 8px;
+    @media (min-width: $min-desktop) {
+      font-size: 24px;
+    }
   }
 }
 
