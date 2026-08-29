@@ -88,8 +88,8 @@ Dear All,
 
 Please join us on **September 23**, 2026 at 4:00pm EST for an exclusive Fireside Chat with MIT Engineering Professor, **Yossi Sheffi**, who will discuss his recently released book, **“Unsafe at MIT: A Chronicle of a Campus War on the Jews”.**
 
-<div class="image-container-tall">
-<a href="https://www.eventbrite.com/e/fireside-chat-with-mit-professor-yossi-sheffi-tickets-1997153525958?aff=oddtdtcreator" target="_blank"><img src="/img/unsafe-at-mit-cover.png" loading="eager"></img></a>
+<div class="image-container-passport">
+<a href="https://www.eventbrite.com/e/fireside-chat-with-mit-professor-yossi-sheffi-tickets-1997153525958?aff=oddtdtcreator" target="_blank"><img src="/img/unsafe-at-mit-cover-square.png" loading="eager"></img></a>
 </div>
 
 Professor Sheffi will be interviewed by founding member and leader of MIT JAA, Dr. Lori Ullman.
