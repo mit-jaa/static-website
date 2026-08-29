@@ -82,6 +82,52 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 
 {{< column >}}
 
+### [Fireside chat with MIT Professor Yossi Sheffi](/other-actions/yossi-sheffi-fireside-chat/)
+
+Dear All,
+
+Please join us on **September 23**, 2026 at 4:00pm EST for an exclusive Fireside Chat with MIT Engineering Professor, **Yossi Sheffi**, who will discuss his recently released book, **“Unsafe at MIT: A Chronicle of a Campus War on the Jews”.**
+
+<div class="image-container-passport">
+<a href="https://www.eventbrite.com/e/fireside-chat-with-mit-professor-yossi-sheffi-tickets-1997153525958?aff=oddtdtcreator" target="_blank"><img src="/img/unsafe-at-mit-cover-square.png" loading="eager"></img></a>
+</div>
+
+Professor Sheffi will be interviewed by founding member and leader of MIT JAA, Dr. Lori Ullman.
+
+To Learn More and Register please [view our event on Eventbrite.](https://www.eventbrite.com/e/fireside-chat-with-mit-professor-yossi-sheffi-tickets-1997153525958?aff=oddtdtcreator)
+
+Dr. Sheffi will discuss the rise of Jew-hate - both traditional antisemitism and its ideological and political decoy, antizionism - that has flourished on MIT’s campus following the massacre of October 7 and its impact on the learning environment and overall social and academic climate at MIT.
+
+Dr. Sheffi will share excerpts from dozens of testimonies of MIT students and staff who shared with him their first-person experiences with targeted hostility and with religious and ethnic discrimination within the institute.
+
+He’ll share with us his views on the current state of antisemitism at MIT and address how antisemitism at all levels throughout the institute has broadly influenced and reshaped academic life, social life, and sense of belonging for its Jewish community.
+
+There will be an opportunity throughout the Chat to share questions and perspectives with Professor Sheffi.
+
+Registration to this Fireside Chat is limited so [register now!](https://www.eventbrite.com/e/fireside-chat-with-mit-professor-yossi-sheffi-tickets-1997153525958?aff=oddtdtcreator)
+
+<hr></hr>
+
+**About our featured guest:**
+
+Yossi Sheffi is Professor of Engineering Systems at the Massachusetts Institute of Technology, Director of the MIT Center for Transportation and Logistics, and author of nine award-winning books. Born in Jerusalem, Mandatory Palestine, Dr. Sheffi obtained his BSc from Technion and his SM and PhD from MIT. Dr. Sheffi currently resides in Boston, Massachusetts.
+
+An on-the-ground witness to the growing effects of antisemitism and antizionism on campus since the massacre of October 7 and the impact they have had on higher education, professor Sheffi brings a broad and thoughtful perspective to this crucial conversation.
+
+Don't miss this opportunity to hear directly from Dr. Sheffi, a first-hand witness to the antisemitism at MIT and its impact on Jewish life on campus.
+
+Highly Recommended Reading: Dr. Sheffi’s book: “Unsafe at MIT: A Chronicle of a Campus War on the Jews”
+
+MIT JAA Executive Committee
+
+{{< /column >}}
+{{< /columns >}}
+
+<hr></hr>
+
+{{< columns count=2 >}}
+{{< column >}}
+
 ### [Newly Published Book by MIT Professor, Yossi Sheffi](/jewish-life-on-campus/important-updates/unsafe-at-mit-book)
 
 #### Releasing July 7, 2026
@@ -95,11 +141,7 @@ MIT professor, Yossi Sheffi, has just published a book chronicling antisemitism 
 “Unsafe at MIT: A Chronicle of a Campus War on the Jews” is available for [kindle pre-order](https://www.amazon.com/Unsafe-MIT-Chronicle-Campus-Jews-ebook/dp/B0H4DSFMDT) and available for purchase July 7, 2026 at local book stores and online at [Amazon.com](https://www.amazon.com/Unsafe-MIT-Chronicle-Campus-Jews/dp/B0H4RSKTC2).
 
 {{< /column >}}
-{{< /columns >}}
 
-<hr></hr>
-
-{{< columns count=2 >}}
 {{< column >}}
 
 #### _Registration is now closed and the event has ended_
@@ -124,7 +166,11 @@ MIT JAA hosted an exclusive webinar featuring renowned author and speaker, **Dr.
 **Event has concluded:** [The Protocols of the Elders of Antizionism: History of an Ideology](https://www.eventbrite.com/e/the-protocols-of-the-elders-of-anti-zion-tickets-1982997032505)
 
 {{< /column >}}
+{{< /columns >}}
 
+<hr></hr>
+
+{{< columns count=2 >}}
 {{< column >}}
 
 <div class="logo-container">
@@ -162,11 +208,7 @@ Examples of this include:
 - chanting “From the River to the Sea” and “Globalize the Intifada”, both phrases which - following the October 7 massacre of Jewish civilians, and with historical use by groups such as Hamas as a call for the destruction of Israel and annihilation of the Jewish people - are now held by many court rulings as calling for violence against Jews …
 
 {{< /column >}}
-{{< /columns >}}
 
-<hr></hr>
-
-{{< columns count=2 >}}
 {{< column >}}
 
 ### [The March on Washington for Jewish Civil Rights, June 26, 2025](/other-actions/march-on-washington/)
@@ -186,7 +228,11 @@ The March on Washington for Jewish Civil Rights, with MIT JAA among several spon
 Follow <a href="https://www.instagram.com/marchforcivilrights/" target="_blank">@marchforcivilrights on instagram</a> and <a href="https://x.com/MarchForCR" target="_blank">@MarchForCR on X</a> for more information!
 
 {{< /column >}}
+{{< /columns >}}
 
+<hr></hr>
+
+{{< columns count=2 >}}
 {{< column >}}
 
 <div class="shift-up">
@@ -217,11 +263,7 @@ MIT Jewish Alumni Alliance
 </div>
 
 {{< /column >}}
-{{< /columns >}}
 
-<hr></hr>
-
-{{< columns count=2 >}}
 {{< column >}}
 
 <div class="logo-container">
@@ -240,19 +282,6 @@ MIT JAA is profoundly disappointed in the MIT leadership and administration who 
 MIT JAA is also profoundly disappointed in President Sally Kornbluth, who, speaking immediately after the student speaker, failed to address or acknowledge what had transpired.
 
 We expect MIT to take immediate disciplinary action against this student speaker.
-
-{{< /column >}}
-
-{{< column >}}
-
-<div class="logo-container">
-<a href="/open-letters/2025-03-19/"><img src="/new_logo_circle.png" loading="eager"></img></a>
-</div>
-<h2><a href="/open-letters/2025-03-19/">Open Letter regarding MIT’s funding and sanctioning of campus antisemitism</a></h2>
-<h5>March 19, 2025</h5>
-We, the undersigned members and supporters of the MIT Jewish Alumni Alliance, are keenly aware of your recent attention to the impact that initiation of Federal penalties will have on universities that continue to engage in civil rights violations. Your address of March 4th to the MIT community focused primarily on the threat to money streams and to cash flow to MIT, while also announcing a hiring freeze. A significant driver of current Federal hostility toward institutions of higher education, including MIT, results from the sponsoring by these institutions, of events that champion hate speech against Jews which serve to foster and worsen an environment already threatening to the Jewish community. The position of the Federal government on this matter is indisputable. As established by the US Departments of Justice and Education, as well as by members of the Senate and House of Representatives: “Antisemitism is clearly inconsistent with the fundamental values that should inform liberal education.” ( <a href="https://www.ed.gov" target="_blank">https://www.ed.gov</a> ).
-
-The cancellation, announced March 6, 2025, of approximately $400 million in federal grants to Columbia University, should be a wake-up call for MIT. As with Columbia, MIT continues to be a target of investigation by the federal government for its failure to contain and to remediate antisemitic activities on its campus and its failure to discipline students engaged in such activities. For too long MIT has been derelict in its duty to provide equally to all its citizens – including Jews – a threat-free campus environment. With additional risk now of losing federal grant monies and contracts that support a large portion of MIT’s academic and research initiatives, MIT is now additionally demonstrating a lack of responsible stewardship. …
 
 {{< /column >}}
 {{< /columns >}}
