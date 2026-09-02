@@ -85,6 +85,16 @@
       max-width: fit-content;
       margin-right: auto;
     }
+
+    .shift-left {
+      width: fit-content;
+      height: fit-content;
+    }
+
+    .horizontal-spacer {
+      margin-left: var(--gutter);
+      width: 0px;
+    }
   }
 
   .block {
