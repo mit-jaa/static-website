@@ -84,6 +84,16 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 
 ### [Fireside chat with MIT Professor Yossi Sheffi](/other-actions/yossi-sheffi-fireside-chat/)
 
+{{< iframe src="https://www.youtube.com/embed/4Ik4mbRts6I?si=ZAOVqZhnC5g1fNpL" >}}
+
+Thank you for joining us at the MIT JAA Fireside Chat with MIT Engineering Professor Yossi Sheffi, author of Unsafe at MIT. For those who missed the conversation and would like to see it, you can access the recording [here on YouTube.](https://www.youtube.com/watch?v=4Ik4mbRts6I)
+
+MIT JAA Executive Committee
+
+<hr></hr>
+
+#### _Registration is now closed and the event has ended_
+
 Dear All,
 
 Please join us on **September 23**, 2026 at 4:00pm EST for an exclusive Fireside Chat with MIT Engineering Professor, **Yossi Sheffi**, who will discuss his recently released book, **“Unsafe at MIT: A Chronicle of a Campus War on the Jews”.**
