@@ -86,7 +86,7 @@ Contact us at [contact@mitjaa.org](mailto:contact@mitjaa.org) with any other que
 
 {{< iframe src="https://www.youtube.com/embed/4Ik4mbRts6I?si=ZAOVqZhnC5g1fNpL" >}}
 
-Thank you for joining us at the MIT JAA FIreside Chat with MIT Engineering Professor Yossi Sheffi, author of Unsafe at MIT. For those who missed the conversation, and would like to see it, you can access the recording [here on YouTube.](https://www.youtube.com/watch?v=4Ik4mbRts6I)
+Thank you for joining us at the MIT JAA Fireside Chat with MIT Engineering Professor Yossi Sheffi, author of Unsafe at MIT. For those who missed the conversation and would like to see it, you can access the recording [here on YouTube.](https://www.youtube.com/watch?v=4Ik4mbRts6I)
 
 MIT JAA Executive Committee
 
