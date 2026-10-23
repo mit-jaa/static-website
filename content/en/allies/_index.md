@@ -10,4 +10,4 @@ showHeader: true
 
 ## [Kalaniyot](https://kalaniyot.org/)
 
-- The Kalaniyot Foundation is a faculty-led organization originating at MIT seeking to advance academic excellence and campus community through strengthened ties with Israeli scholars. To learn more, explore [The Kalaniyot Foundation website here](https://kalaniyot.org/).
+- The Kalaniyot Foundation is a faculty-led organization originating at MIT seeking to advance academic excellence and campus community through strengthened ties with Israeli scholars. To learn more, explore [The Kalaniyot Foundation website.](https://kalaniyot.org/)

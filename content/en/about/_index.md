@@ -4,7 +4,7 @@ summary: The MIT Jewish Alumni Alliance is an unincorporated association of MIT 
 showHeader: true
 ---
 
-## Join our almost 2000 supporters
+## Join our 2000 supporters
 
 #### Stay in the loop with our mailing list.
 
