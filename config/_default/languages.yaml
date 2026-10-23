@@ -128,6 +128,10 @@ en:
         name: "Media Coverage"
         url: "/media-coverage/"
         weight: 40
+      - identifier: "allies"
+        name: "Allies"
+        url: "/allies/"
+        weight: 50
 # he:
 #   languageName: Hebrew
 #   contentDir: content/he
